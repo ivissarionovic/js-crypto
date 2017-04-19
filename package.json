@@ -1,0 +1,19 @@
+{
+  "name": "js-crypto",
+  "version": "1.0.0",
+  "description": "Some JavaScript implementations of common hash functions (MD5, SHA-1 and SHA-256) designed to be compressed into the smallest size possible.",
+  "main": "md5-min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkalfigo/js-crypto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tkalfigo/js-crypto/issues"
+  },
+  "homepage": "https://github.com/tkalfigo/js-crypto#readme"
+}
